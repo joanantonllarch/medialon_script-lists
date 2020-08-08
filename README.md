@@ -1,4 +1,4 @@
-# medialon_script-lists
+# Medialon script for manipulate lists
 Medialon lists manipulation using the mxm script.
 
 ## ENJOY !!
